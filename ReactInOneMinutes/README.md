@@ -17,9 +17,9 @@
 
 ## Getting Started
 
-**`git clone https://github.com/RitobrotoMukherjee/practice-react-basics.git`**
-**`cd practice-react-basics`**
-**`cd ReactInOneMinutes`**
+- **`git clone https://github.com/RitobrotoMukherjee/practice-react-basics.git`**
+- **`cd practice-react-basics`**
+- **`cd ReactInOneMinutes`**
 
 ## Authors
 
